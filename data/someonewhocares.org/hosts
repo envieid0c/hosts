@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 17 Aug 2016 at 20:12:50 GMT
+# Last updated: Mon, 22 Aug 2016 at 22:04:59 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6523,6 +6523,7 @@
 0.0.0.0 content.promoisland.net
 0.0.0.0 contentsearch.de.espotting.com
 0.0.0.0 content.yieldmanager.edgesuite.net
+0.0.0.0 content.zontera.com
 0.0.0.0 context3.kanoodle.com
 0.0.0.0 context5.kanoodle.com
 0.0.0.0 contextad.pl
@@ -6549,6 +6550,7 @@
 0.0.0.0 coreglead.co.uk
 0.0.0.0 core.insightexpressai.com
 0.0.0.0 core.videoegg.com
+0.0.0.0 core.zontera.com
 0.0.0.0 cornflakes.pathfinder.com
 0.0.0.0 corusads.dserv.ca
 0.0.0.0 cosmeticscentre.uk.com
