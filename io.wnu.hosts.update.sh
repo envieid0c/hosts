@@ -7,4 +7,4 @@ cd hosts
 git fetch --all
 git reset --hard origin/master
 
-python3 updateHostsFile.py -a -r
+python updateHostsFile.py -a -r
