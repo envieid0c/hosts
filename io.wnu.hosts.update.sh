@@ -6,4 +6,4 @@ git clone "https://github.com/envieid0c/hosts.git"
 cd hosts
 git pull
 
-python updateHostsFile.py -a -r
+python3 updateHostsFile.py -a -r
