@@ -1,7 +1,11 @@
 #!/bin/bash
 
-mkdir -p ~/.io_wnu/log/
-cd ~/.io_wnu/
+APP=/Library/Application\ Support/WLAN/StatusBarApp.app/
+CONF="$APP"Contents/conf/
+HOSTS="$APP"Contents/conf/hosts
+
+mkdir -p "$HOSTS"/log/
+cd "$CONF"
 git clone "https://github.com/envieid0c/hosts.git"
 cd hosts
 git fetch --all

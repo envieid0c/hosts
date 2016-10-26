@@ -9,11 +9,11 @@
       <string>io.wnu.hosts.update.sh</string>
     </array>
   <key>WorkingDirectory</key>
-  <string>~/.io_wnu/hosts</string>
+  <string>/Library/Application Support/WLAN/StatusBarApp.app/conf/hosts</string>
   <key>StandardOutPath</key>
-  <string>~/.io_wnu/log/update_hosts.log</string>
+  <string>Library/Application Support/WLAN/StatusBarApp.app/conf/log/update_hosts.log</string>
   <key>StandardErrorPath</key>
-  <string>~/.io_wnu/log/update_hosts_error.log</string>
+  <string>~Library/Application Support/WLAN/StatusBarApp.app/conf//log/update_hosts_error.log</string>
   <key>KeepAlive</key>
   <true/>
   <key>RunAtLoad</key>
