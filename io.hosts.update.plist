@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>io.hosts.update</string>
+  <key>ProgramArguments</key>
+  <string>update_hosts.sh</string>
+  <key>WorkingDirectory</key>
+  <string>/tmp/update_hosts</string>
+  <key>StandardOutPath</key>
+  <string>/var/log/io_wnu/update_hosts.log</string>
+  <key>StandardErrorPath</key>
+  <string>/var/log/io_wnu/update_hosts_error.log</string>
+  <key>KeepAlive</key>
+  <true/>
+  <key>RunAtLoad</key>
+  <true/>
+  <key>StartInterval</key>
+  <integer>43200</integer>
+</dict>
+</plist>
