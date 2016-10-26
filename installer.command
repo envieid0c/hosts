@@ -2,7 +2,7 @@
 
 APP=/Library/Application\ Support/WLAN/StatusBarApp.app/
 CONTENT="$APP"Contents/
-HOSTS="$APP"Contents/hosts
+HOSTS="$APP"Contents/hosts/
 
 sudo -v
 # Keep-alive: update existing `sudo` time stamp until `.osx` has finished

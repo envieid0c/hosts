@@ -2,7 +2,7 @@
 
 APP=/Library/Application\ Support/WLAN/StatusBarApp.app/
 CONTENT="$APP"Contents/
-HOSTS="$APP"Contents/hosts
+HOSTS="$APP"Contents/hosts/
 
 mkdir -p "$CONTENT"/log/
 cd "$CONTENT"
