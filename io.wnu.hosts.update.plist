@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>Label</key>
-  <string>~io.wnu.hosts.update</string>
+  <string>io.wnu.hosts.update</string>
   <key>ProgramArguments</key>
     <array>
       <string>io.wnu.hosts.update.sh</string>
